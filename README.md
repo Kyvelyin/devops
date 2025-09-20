@@ -4,7 +4,7 @@ Howdy ?
 ![workflow](https://github.com/Kyvelyin/devops/actions/workflows/main.yml/badge.svg)
 
 # DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Kyvelyin/devops/<action name taken from main.yml>/<branch>?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Kyvelyin/devops/main.yml?branch=develop&style=flat-square)
 
 [![LICENSE](https://img.shields.io/github/license/Kyvelyin/devops.svg?style=flat-square)](https://github.com/Kyvelyin/devops/blob/master/LICENSE)
 
